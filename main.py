@@ -4,5 +4,3 @@
 #new file
 #another new line
 #other test
-#critical piece
-#another one
